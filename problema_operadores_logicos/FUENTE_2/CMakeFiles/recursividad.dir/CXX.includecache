@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/Documents/C-Make/CCI_LAB_04/problema_operadores_logicos/FUENTE_2/operadores_logicos.cpp
+iostream
+-
+string
+-
+

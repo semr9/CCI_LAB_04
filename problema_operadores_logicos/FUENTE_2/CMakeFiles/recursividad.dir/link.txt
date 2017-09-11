@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/recursividad.dir/operadores_logicos.cpp.o  -o recursividad 

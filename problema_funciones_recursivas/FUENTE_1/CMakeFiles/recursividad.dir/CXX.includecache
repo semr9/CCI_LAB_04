@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/Documents/C-Make/CCI_LAB_04/problema_funciones_recursivas/FUENTE_1/funciones_recursivas.cpp
+iostream
+-
+
